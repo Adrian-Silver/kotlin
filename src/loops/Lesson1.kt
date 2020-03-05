@@ -56,6 +56,43 @@ fun main(args: Array<String>) {
 
 //    assignment : FIZZBUZZ
 
+    println()
+
+    println("FIZZBUZZ assignment")
+
+    var x:Int =1
+    for(x in 1..100){
+        if(x % 15 ==0){
+            println("$x FIZZBUZZ")
+        }else if(x %3==0){
+            println("$x FIZZ")
+        }else if(x %5==0) {
+            println("$x BUZZ")
+        }else{
+            println("$x")
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 //    Arrays
