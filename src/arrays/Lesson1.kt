@@ -29,7 +29,7 @@ fun main(args: Array<String>) {
 //    use index numbers
     println(numbers[0])
 
-//    2. use get(), takes the index number as an aguement
+//    2. use get(), takes the index number as an argument
     println(majina.get(2))
 
 
